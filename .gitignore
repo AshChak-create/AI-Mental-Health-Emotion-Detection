@@ -1,0 +1,27 @@
+# Python environments
+venv/
+.venv/
+env/
+
+# PyCharm and editor files
+.idea/
+.vscode/
+
+# Python cache and generated files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Private journal entries
+logs/
+
+# Local datasets
+data/
+
+# Environment variables and credentials
+.env
+.env.*
+
+# Operating system files
+.DS_Store
+Thumbs.db
